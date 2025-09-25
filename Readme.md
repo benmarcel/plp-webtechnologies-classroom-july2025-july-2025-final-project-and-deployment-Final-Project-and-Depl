@@ -27,4 +27,4 @@ The project follows best practices for file organization and separation of conce
 
 ## Live URL
 
-[**INSERT YOUR DEPLOYED GITHUB PAGES / NETLIFY / VERCEL LINK HERE**]
+[**https://benmarcel.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/**]
